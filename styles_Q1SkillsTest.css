@@ -1,0 +1,27 @@
+body {
+			background-image: url("Robotic.jpg");
+			background-position: center;
+			font-family: Arial, sans-serif;
+			color: darkblue;
+		}
+
+		h1,hr,h3,li{
+			text-align: center;
+			color: darkblue;
+		}
+		p {
+			text-align: center;
+			color: black;
+		}
+
+		form{
+			background-color: rgba(255, 255, 255, 0.85);
+			width: 400px;
+			padding: 20px;
+			border-radius: 10px;
+			box-shadow: 10px 10px 5px 0px rgba(170, 156, 156, 0.75);
+			color: black;
+		}
+		label {
+			margin-top: 10px;
+			font-weight: bold;
